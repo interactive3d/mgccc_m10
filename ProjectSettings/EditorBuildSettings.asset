@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MK_Project/scenes/01_loading_scene.unity
+    guid: eb5e656f7fc560343be46bc07814e274
+  - enabled: 1
+    path: Assets/MK_Project/scenes/02_touch_mode.unity
+    guid: 9fc5fb14fe51b5e429cfa328efcbf15c
+  - enabled: 1
+    path: Assets/MK_Project/scenes/03_ar_mode.unity
+    guid: 5e166da5ba204554b97a1e0365e4d9ad
+  - enabled: 1
+    path: Assets/MK_Project/scenes/04_vr_mode.unity
+    guid: de7ce5920281ffc489671db1fff99c4a
   m_configObjects: {}
